@@ -1,7 +1,7 @@
 ### Hello world 👋
 ### I'm Kiarash 👻
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Kiarash-Karami/Kiarash-Karami/blob/main/0_C-cPP9D2MIyeexAT.gif" width="500" height="320" />
 
 - 🔭 I would like to be a machine learning engineer
 - 🌱 I’m currently learning Frontend
