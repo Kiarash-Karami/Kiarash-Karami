@@ -7,5 +7,5 @@
 - 🔭 I would like to be a machine learning engineer
 - 🌱 I’m currently learning Frontend
 - 💬 Ask me about python
-- 😃 Fun fact: nothing better than coding
+- 😃 Fun fact: There is nothing better than coding
 
