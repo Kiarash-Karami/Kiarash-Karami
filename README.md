@@ -1,4 +1,4 @@
-### Hello world !
+### Hello world 👋
 ### I'm Kiarash Karami
 
 - 🔭 I would like to be a machine learning engineer
@@ -6,4 +6,4 @@
 - 💻 I’m python developer
 - 💬 Ask me about python
 - 😃 Fun fact: nothing better than coding
--->
+
