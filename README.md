@@ -18,8 +18,13 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br/>
+<br/>
+
+---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Most Used Languages</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+
+</details>
