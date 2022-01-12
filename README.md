@@ -5,7 +5,7 @@
 ## I'm Kiarash 👻
 - 💻 I’m python developer
 - 🔭 I would like to be a machine learning engineer
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning Opencv
 - 💬 Ask me about python
 - 😃 Fun fact: There is nothing better than coding
 ### Languages and Tools:
