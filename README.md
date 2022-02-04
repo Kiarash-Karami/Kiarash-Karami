@@ -1,20 +1,14 @@
 ### Hello world 👋
 
-<img align="right" alt="GIF" src="https://github.com/Kiarash-Karami/Kiarash-Karami/blob/main/0_C-cPP9D2MIyeexAT.gif" width="500" height="320" />
+## 🌐Socials
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ Kiarash Karami) 
 
-## I'm Kiarash 👻
-- 💻 I’m python developer
-- 🔭 I would like to be a machine learning engineer
-- 🌱 I’m currently learning Opencv
-- 💬 Ask me about python
-- 😃 Fun fact: There is nothing better than coding
-### Languages and Tools:
+# 💻Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Kiarash-Karami&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kiarash-Karami&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiarash-Karami&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br/>
-
-
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
